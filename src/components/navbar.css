@@ -1,0 +1,26 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #21222a;
+  height: 80px;
+  color: white;
+  padding-top: 40px;
+  box-shadow: 2px 1px 4px rgba(0, 0, 0, 0.377);
+}
+
+
+.nav--icons_left {
+  display: flex;
+  color: #60dafb;
+  margin-left: 25px;
+}
+
+.nav--icons_left h3 {
+  margin: 5px 0 0 8px;
+  font-size: 26px;
+}
+
+.nav--title {
+  margin: 0 25px;
+  font-size: 22px;
+}
